@@ -1,4 +1,3 @@
-Hello ma'am,
 Good Day.
 
 This is my Computer Assignment for the internal assessment.
@@ -16,9 +15,6 @@ and an Index HTML file.
 
 This project was completed under 48 Hours, 
 excluding the time required by me previously to code the JS and Bootstrap files.
-
-This project is also available as a repository on my GitHub page https://github.com/LemonySnicket300999
-(The link is also available on the Site)
 
 I hope you liked my Site.
 
